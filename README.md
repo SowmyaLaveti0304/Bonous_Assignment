@@ -29,6 +29,11 @@ This assignment is divided into 3 parts
    - Wrote a 2–3 sentence context (with Abdul Kalam).
    - Asked two distinct questions of that context.
 ### Output:
+{'score': 0.98927903175354, 'start': 1, 'end': 16, 'answer': 'Charles Babbage'}
+{'score': 0.8692716956138611, 'start': 1, 'end': 16, 'answer': 'Charles Babbage'}
+{'question': 'What nickname did he earn?', 'answer': 'Missile Man of India', 'score': 0.5, 'start': 301, 'end': 321}
+{'question': 'During which years did he serve as President of India?', 'answer': '2002 to 2007', 'score': 0.95, 'start': 166, 'end': 178}
+
 ## Q2: Digit-Class Controlled Image Generation with Conditional GAN
 ### Tasks completed:
 - Data Preparation: Downloaded and preprocessed MNIST 
