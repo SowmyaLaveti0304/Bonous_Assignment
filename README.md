@@ -1,4 +1,4 @@
-# Bonous_Assignment– Summer 2025
+# Bonus_Assignment– Summer 2025
 
 **Student Name:** Sowmya Laveti  
 **Student ID:** 700771347  
@@ -45,6 +45,8 @@ This assignment is divided into 3 parts
 - Visualization: Plotted the loss curves for G and D over epochs.
 ### Output:
 ![Figure_1](https://github.com/user-attachments/assets/546d0d7b-d4db-4023-86c8-6287a31386c9)
+![Figure_2](https://github.com/user-attachments/assets/d2418fc4-93cd-4b3b-9031-c8c9fbfb0094)
+
 
 
 
