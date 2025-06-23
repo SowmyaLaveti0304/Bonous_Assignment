@@ -44,6 +44,9 @@ This assignment is divided into 3 parts
 - Generator step: Trained to fool D (making D(fake,label) → 1).
 - Visualization: Plotted the loss curves for G and D over epochs.
 ### Output:
+![Figure_1](https://github.com/user-attachments/assets/546d0d7b-d4db-4023-86c8-6287a31386c9)
+
+
 
 ### Short Answer
 **How does a Conditional GAN differ from a vanilla GAN?**
